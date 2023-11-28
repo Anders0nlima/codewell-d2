@@ -6,15 +6,16 @@
     
 }
 
-html{
-    height: 100vh;
-}
+
 
 main{
     width: 90vw;
-    margin: auto;
     padding: 10px;
+    display: block;
+    
+   
 }
+
 
 h1{
     padding: 35px;
@@ -31,8 +32,9 @@ p#separar{
 }
 
 .foto-1{
-   width: 430px;
-
+   width: 400px;
+   display: block;
+   
 }
 
 
