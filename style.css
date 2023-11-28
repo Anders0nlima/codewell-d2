@@ -42,7 +42,13 @@ p#separar{
 }
 
 
+h1{
+    padding: 10px;
+    padding-right: 50px;
+    margin: 5px;
+    font-size: 35px;
 
+}
 
 
 .logo{
