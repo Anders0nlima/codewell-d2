@@ -32,8 +32,12 @@ p#separar{
 }
 
 .foto-1{
-   width: 400px;
+   width: 380px;
    display: block;
+   
+   
+   
+
    
 }
 
@@ -52,10 +56,12 @@ p#separar{
 
 
  body{
+    padding-right: 40px;
     display: flex;
-    justify-content: center;
-    align-items: center;
+    /*justify-content: center;*/
+    /*align-items: center;*/
     margin: 0px;
+    
     
     
 
@@ -79,5 +85,7 @@ p#separar{
 .botao:hover{
     background-color: rgb(55, 55, 55);
 }
+
+
 
 
