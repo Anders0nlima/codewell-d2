@@ -1,0 +1,93 @@
+@charset "UFT-8";
+
+/*telas tables e celulares*/
+@media screen and (min-width:768px) and (max-width:992px){ 
+  body{
+    background-color: white;
+  }
+
+}
+  
+
+/*desktop*/
+@media screen and (min-width:992px) and (max-width:1200px){
+  body{
+    background-color: white;
+  }
+
+  .fot-1{
+    float: right;
+    width: 50%;
+    height: 120px;
+    padding-top: 0px;
+  }
+
+  .lado{
+    display: flex;
+    }
+  
+  .logo{
+    padding: 10px;
+    padding-top: 50px;
+    width: 455px;
+    
+    padding-bottom: 60px;
+    height: 110px;
+  }
+
+  .titulo{
+    
+    float: left;
+    width: 50%;
+    padding-top: 15px;
+
+   
+    height: 100%;
+    
+   
+  }
+
+
+
+}
+
+
+
+
+/*telas grandes*/
+@media screen and (min-width: 1200px){
+
+  body{
+    background-color: white;
+  }
+
+  .fot-1{
+    float: right;
+    width: 50%;
+    height: 150px;
+    padding-top: 0px;
+   margin-bottom: px;
+  }
+
+  .lado{
+    display: flex;
+    }
+  
+  .logo{
+    padding: 10px;
+    padding-top: 50px;
+    width: 1140px;
+    padding-bottom: 60px;
+    height: 110px;
+  }
+
+  .titulo{
+    float: left;
+    width: 50%;
+    padding-top: 15px;
+    height: 100%;
+    
+   
+  }
+
+}

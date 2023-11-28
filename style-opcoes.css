@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.inicio{
+  
+  margin: 10px;
+  padding-top: 10px;
+}
+
+.home{
+ background-color: rgba(255, 0, 0, 0.868);
+
+  text-align: right;
+  float: right;
+  text-decoration: none;
+  color: black;
+  padding: 10px;
+  border-radius: 10px;
+
+}
+
+.home:hover{
+  background-color: rgb(180, 6, 6);
+}
+
+.vindas{
+  background-color: rgba(240, 213, 169, 0.241);
+  margin: 20px;
+  padding: 40px;
+}
+
+.borda{
+  background-color: white;
+  box-shadow: 1px 1px 3px 1px rgba(0, 0, 0, 0.323);
+  padding: 19px;
+  margin: 55px;
+
+  
+}
+
+.borda-2{
+  background-color: white;
+  box-shadow: 1px 1px 3px 1px rgba(0, 0, 0, 0.323);
+  padding: 19px;
+  margin: 55px;
+}
+
+main{
+  border-radius: 10px;
+  margin: 10px;
+  padding: 10px;
+  
+}
+
+.meio{
+  text-align: center;
+  display: block;
+ 
+}
+
+.radio{
+  border-radius: 5px;
+}
+
+
+.alinha{
+  margin: 10px;
+  padding-bottom: 10px;
+}
+
+.alinha>p{
+  color: rgb(68, 68, 68);
+  font-size: 17px;
+}
+
+.bottom{
+  background-color: white;
+  text-decoration: none;
+  padding: 15px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+  margin: 20px;
+  border-radius: 10px;
+  color: black;
+  box-shadow: 1px 1px 3px 1px rgba(0, 0, 0, 0.323);
+  display: block;
+}
+
+.bottom:hover{
+  background-color: rgb(236, 233, 233);
+}
+
+footer{
+  padding-bottom: 40px;
+  margin-left: 30px;
+}

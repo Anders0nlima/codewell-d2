@@ -1,0 +1,82 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.ini{
+    padding: 10px;
+    margin: 10px;
+}
+
+.places{
+    background-color: rgb(255, 0, 0, 0.868);
+    float: right;
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.places:hover{
+    background-color: rgb(180, 6, 6) ;
+}
+
+.conteudo{
+    background-color: white;
+    padding: 10px;
+    margin: 61px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 3px 1px rgba(0, 0, 0, 0.323);
+
+}
+
+.ra{
+    border-radius: 10px;
+}
+
+.em{
+    text-align: center;
+    display: block;
+    padding-top: 25px;
+}
+
+.info-1{
+   
+    display: block;
+    margin: 15px;
+    margin-right: 200px;
+}
+
+.info-2{
+    padding: 10px;
+    margin-right: 5px;
+    float: right;
+    display: block;
+    font-size: 20px;
+}
+
+.descricao{
+    margin: 18px;
+    color: rgb(68, 68, 68);
+
+}
+
+.space{
+    padding-top: 25px;
+}
+
+.mapa{
+    background-color: white;
+    padding: 30px;
+    margin: 61px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 3px 1px rgba(0, 0, 0, 0.323);
+    text-align: center;
+}
+
+.footer{
+    padding-top: 30px;
+    padding-bottom: 50px;
+    margin-left: 30px;
+}
